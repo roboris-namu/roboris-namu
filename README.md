@@ -1,8 +1,12 @@
 # 👋 Seokwon Yang (양석원)
 
 🎓 AI-focused master's student @ Ajou University  
-🔍 Specializing in: Recommender Systems, Web Development, IoT Security  
-📫 Blog: https://view1634.tistory.com | Email: your@email.com
+🔍 Specializing in: Recommender Systems, Web Development, IoT Security
+
+📬 Contact
+- 🇰🇷 [Tistory Blog](https://view1634.tistory.com)
+- 🌐 [Medium Blog](https://medium.com/@yourid)
+- 💼 [LinkedIn Profile](https://linkedin.com/in/seokwonyang)
 
 ---
 
