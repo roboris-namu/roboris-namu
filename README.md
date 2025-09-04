@@ -489,3 +489,41 @@ Cursor, JavaScript/TypeScript, Firebase, REST API, Tailwind, etc.
 **📸 Preview**
 ![PRJ-0013](./images/PRJ-0013.png)
 ---
+### 🚀 PRJ-0014 - Recommender System Research Code (추천시스템 논문 연구용 코드)
+<span id="prj-0014"></span>
+<p align="right"><a href="#portfolio-overview">⬆ Back to overview</a></p>
+
+**Type**: Research / Recommender System  
+**Status**: In Progress (실험 및 논문 연구 진행 중)  
+
+### ⏳ Duration  
+Start: 2025.01 • End: 2025.12 (예정)  
+개발 기간: 2025년 1월 ~ 12월 (예정)
+
+### 👥 Team  
+Members: 1 (Solo project, 논문 연구용)  
+팀 구성: 단독 연구 및 개발
+
+### 📝 Overview  
+Master’s thesis–oriented project focused on multi-generation recommender systems.  
+논문 연구를 위해 1세대 ~ 6세대 추천 시스템(규칙 기반, CF, BPR, NeuMF, SASRec, MeLU 등)을 MovieLens, Amazon Electronics 등 다양한 데이터셋에 적용하고 성능 비교 연구를 진행합니다.
+
+### 🛠 Tech Stack  
+- Python, PyTorch, RecBole, Kaggle/Colab  
+- Datasets: MovieLens, Amazon Electronics, etc.  
+- Evaluation Metrics: Precision, Recall, NDCG, MRR  
+
+### 📂 Features  
+- Implementation of baseline recommenders (Popularity, CF, BPR)  
+  기초 추천 모델 구현 (인기 기반, 협업 필터링, BPR)  
+- Deep learning models (NeuMF, AutoRec, GRU4Rec)  
+  딥러닝 기반 모델 적용  
+- Advanced/self-attention/graph-based models (SASRec, BERT4Rec, LightGCN, MeLU)  
+  최신 추천 시스템 실험  
+
+### 🔗 Links  
+- Blog: [View Research Blog](https://yourblog.com/prj-0014)  
+- Thesis Repo: [GitHub Repository](https://github.com/yourid/recommender-research)  
+
+**📸 Preview**  
+![PRJ-0014](./images/PRJ-0014.png)
