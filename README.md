@@ -62,7 +62,8 @@ Cursor, JavaScript/TypeScript, Firebase, REST API, Tailwind, etc.
 - Blog: [View Project Blog](https://yourblog.com/prj-0001)
 
 **📸 Preview**
-![PRJ-0001](./images/PRJ-0001.png)
+![PRJ-0001](./images/PRJ-0001.png)<img width="1858" height="3398" alt="공사안전관리계획서 상세내역 (12)" src="https://github.com/user-attachments/assets/91a21ad6-8c97-4229-bf24-d6823179770a" />
+
 ---
 ### 🚀 PRJ-0002 - Real-time Fine Dust App (실시간 미세먼지 앱)
 
