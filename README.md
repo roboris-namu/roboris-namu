@@ -13,21 +13,22 @@
 ## 📂 Portfolio Overview
 <a id="portfolio-overview"></a>
 
-| ID                            | Project Name                                           | Type                               | Status     | Commercialization |
-|-------------------------------|--------------------------------------------------------|------------------------------------|------------|:-----------------:|
-| [PRJ-0001](#prj-0001)         | Todo Checklist + Firebase (투두 체크리스트 + 파이어베이스) | Web App / Cursor AI                | Completed  | 🔴 |
-| [PRJ-0002](#prj-0002)         | Real-time Fine Dust App (실시간 미세먼지 앱)              | Web App / Cursor AI                | Completed  | 🟢 |
-| [PRJ-0003](#prj-0003)         | YouTube Summary Automation (유튜브 요약 자동화 서비스)     | Web App / Cursor AI                | Completed  | 🔴 |
-| [PRJ-0004](#prj-0004)         | Stock & Crypto Tracker Web (주식/코인 조회 자동화 웹사이트) | Web App / Cursor AI                | Completed  | 🔴 |
-| [PRJ-0005](#prj-0005)         | SNS Community Site (SNS 커뮤니티 사이트 개발)              | Web App / Cursor AI                | Completed  | 🔴 |
-| [PRJ-0006](#prj-0006)         | YouTube SNS Auto Poster (유튜브 영상 SNS 포스팅 자동화)    | Web App / Cursor AI                | Completed  | 🔴 |
-| [PRJ-0007](#prj-0007)         | Daily Email Sender (매일 이메일 발송 서비스)               | Web App / Cursor AI                | Completed  | 🔴 |
-| [PRJ-0008](#prj-0008)         | Coupang Review Crawler + Chatbot (쿠팡 리뷰 크롤링 및 챗봇 구현) | Web App / Cursor AI           | Completed  | 🔴 |
-| [PRJ-0009](#prj-0009)         | AI Kanban Board (AI 캔반보드 시스템)                     | Web App / Cursor AI                | Completed  | 🔴 |
-| [PRJ-0010](#prj-0010)         | Blog Comment Automation (블로그 이웃/댓글 자동화 도구)     | Web App / Cursor AI                | Completed  | 🟢 |
-| [PRJ-0011](#prj-0011)         | AI Interview App (AI 면접 프로그램)                       | Web App / Cursor AI                | Completed  | 🔴 |
-| [PRJ-0012](#prj-0012)         | My AI Meeting Agent (나만의 AI 회의록 요약 에이전트)       | Web App / Cursor AI                | Completed  | 🔴 |
-| [PRJ-0013](#prj-0013)         | Online Smart Platform (온라인 스마트 플랫폼)               | Web App / Cursor AI                | Completed  | 🟢 |
+| ID                            | Project Name                                           | Folder Name          | Type                               | Status     | Commercialization |
+|-------------------------------|--------------------------------------------------------|----------------------|------------------------------------|------------|:-----------------:|
+| [PRJ-0001](#prj-0001)         | Todo Checklist + Firebase (투두 체크리스트 + 파이어베이스) | todo-checklist       | Web App / Cursor AI                | Completed  | 🔴 |
+| [PRJ-0002](#prj-0002)         | Real-time Fine Dust App (실시간 미세먼지 앱)              | realtime-finedust    | Mobile App / Flutter               | Completed  | 🟢 |
+| [PRJ-0003](#prj-0003)         | YouTube Summary Automation (유튜브 요약 자동화 서비스)     | youtube-summary      | Web App / Cursor AI                | Completed  | 🔴 |
+| [PRJ-0004](#prj-0004)         | Stock & Crypto Tracker Web (주식/코인 조회 자동화 웹사이트) | stock-crypto-tracker | Desktop App / Electron             | Completed  | 🔴 |
+| [PRJ-0005](#prj-0005)         | SNS Community Site (SNS 커뮤니티 사이트 개발)              | sns-community        | Web App / Cursor AI                | Completed  | 🔴 |
+| [PRJ-0006](#prj-0006)         | YouTube SNS Auto Poster (유튜브 영상 SNS 포스팅 자동화)    | youtube-sns-poster   | Mobile App / Flutter               | Completed  | 🔴 |
+| [PRJ-0007](#prj-0007)         | Daily Email Sender (매일 이메일 발송 서비스)               | daily-email-sender   | Web App / Cursor AI                | Completed  | 🔴 |
+| [PRJ-0008](#prj-0008)         | Coupang Review Crawler + Chatbot (쿠팡 리뷰 크롤링 및 챗봇 구현) | coupang-chatbot   | Web App / Cursor AI                | Completed  | 🔴 |
+| [PRJ-0009](#prj-0009)         | AI Kanban Board (AI 캔반보드 시스템)                     | ai-kanban-board      | Desktop App / Flutter              | Completed  | 🔴 |
+| [PRJ-0010](#prj-0010)         | Blog Comment Automation (블로그 이웃/댓글 자동화 도구)     | blog-comment-auto    | Web App / Cursor AI                | Completed  | 🔴 |
+| [PRJ-0011](#prj-0011)         | AI Interview App (AI 면접 프로그램)                       | ai-interview-app     | Mobile App / Flutter               | Completed  | 🔴 |
+| [PRJ-0012](#prj-0012)         | My AI Meeting Agent (나만의 AI 회의록 요약 에이전트)       | ai-meeting-agent     | Web App / Cursor AI                | Completed  | 🔴 |
+| [PRJ-0013](#prj-0013)         | Online Smart Platform (온라인 스마트 플랫폼)               | online-smart-platform| Desktop App / Electron             | Completed  | 🔴 |
+| [PRJ-0014](#prj-0014)         | Recommender System Research Code (추천시스템 논문 연구용 코드) | recommender-research | Research / Recommender System      | In Progress| 🔴 |
 
 
 👇 **Scroll down for full project details**
