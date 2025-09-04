@@ -33,7 +33,7 @@
 👇 **Scroll down for full project details**
 ---
 ### 🚀 PRJ-0001 - Todo Checklist + Firebase (투두 체크리스트 + 파이어베이스)
-<span id="prj-0001"></span><p align="right"><a href="#portfolio-overview">⬆ Back to overview</a></p>
+<span id="prj-0001"></span><p align="right"><span href="#portfolio-overview">⬆ Back to overview</a></span>
 
 **Type**: Web App / Automation / Cursor AI 기반 개발  
 **Status**: Completed (상용 서비스 배포 완료 또는 완성)
