@@ -55,17 +55,17 @@ Cursor AI 기반으로 설계한 투두 체크리스트 + 파이어베이스 프
 Cursor, JavaScript/TypeScript, Firebase, REST API, Tailwind, etc.
 
 ### 📂 Features
-- Core feature 1 description  
-  기능 1 설명
-- Core feature 2 description  
-  기능 2 설명
-- Core feature 3 description  
-  기능 3 설명
+- ✅ Create, update, and delete todo items (CRUD 기능)  
+- 🔄 Real-time sync across devices using Firebase Firestore  
+- 👤 User authentication with Firebase Auth  
+- 🎨 Responsive UI with TailwindCSS  
 
 ### 🔗 Links
-- Blog: [View Project Blog](https://yourblog.com/prj-0001)
+- 🚀 **Live Demo**: [Visit App](https://yourdemo.vercel.app)  
+- 📝 **Blog**: [View Project Blog](https://view1634.tistory.com/prj-0001)  
+- 💻 **GitHub**: [Source Code](https://github.com/namurobori/PRJ-0001)  
 
-**📸 Preview**
+**📸 Preview**  
 ![PRJ-0001](./images/PRJ-0001.png)<img width="1858" height="3398" alt="공사안전관리계획서 상세내역 (12)" src="https://github.com/user-attachments/assets/91a21ad6-8c97-4229-bf24-d6823179770a" />
 
 ---
