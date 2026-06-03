@@ -1,4 +1,4 @@
-<h1 align="center">🛠️ 양석원 · Noah Yang</h1>
+<h1 align="center">🛠️ 양석원</h1>
 
 <p align="center">
   <b>7년차 시스템 운영 · 웹 풀스택 개발자</b> &nbsp;|&nbsp; EHS 도메인 · RAG · 인디 앱<br>
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://slox.co.kr"><img src="https://img.shields.io/badge/Portfolio-slox.co.kr-4f46e5?style=flat-square&logo=safari&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Email-namurobo@naver.com-06b6d4?style=flat-square&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-namurobori@gmail.com-06b6d4?style=flat-square&logo=gmail&logoColor=white">
   <img src="https://img.shields.io/badge/Career-7Y-0e1729?style=flat-square">
 </p>
 
@@ -37,7 +37,7 @@
 | 특징 | 답변마다 `[S1][S2]` 출처 마커 필수 · 환각률 < 2% · 평균 응답 1.5s |
 | 출시 | 🍎 App Store **출시 완료** · 🤖 Google Play **출시 예정**(테스트 중) |
 
-🔗 **소개·데모:** [slox.co.kr/jeongbidosa/present](https://slox.co.kr/jeongbidosa/present)
+🔗 **소개·데모:** [slox.co.kr/jeongbidosa/present](https://slox.co.kr/jeongbidosa/present) &nbsp;·&nbsp; 🔑 PW: `ajoujust2026`
 
 ---
 
@@ -96,18 +96,9 @@
 
 ---
 
-### 📊 GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=roboris-namu&show_icons=true&hide_border=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roboris-namu&layout=compact&hide_border=true" height="160">
-</p>
-
----
-
 <sub>🎓 아주대학교 정보통신대학원 인공지능 전공 (석사, 2026.08 졸업 예정) · 강남대 전자공학/컴퓨터공학 복수전공 &nbsp;|&nbsp; 📜 정보처리기사 · 빅데이터분석기사 · SQLD · ADsP · 컴활 1급</sub>
 
 <p align="center">
   <i>"안정성과 신뢰를 설계하는 개발자"</i><br>
-  📮 namurobo@naver.com &nbsp;|&nbsp; 🌐 <a href="https://slox.co.kr">slox.co.kr</a>
+  📮 namurobori@gmail.com &nbsp;|&nbsp; 🌐 <a href="https://slox.co.kr">slox.co.kr</a>
 </p>
